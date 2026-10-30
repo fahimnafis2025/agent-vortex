@@ -1,0 +1,7 @@
+{
+  "name": "Quick Answers",
+  "ollama_tag": "qwen3:4b",
+  "vram_gb": 2.7,
+  "role": "specialist",
+  "description": "Light and fast. Made for quick questions — and later, the voice loop on Discord where reply speed matters more than depth."
+}

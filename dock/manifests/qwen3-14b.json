@@ -1,0 +1,7 @@
+{
+  "name": "Main Brain",
+  "ollama_tag": "qwen3:14b",
+  "vram_gb": 9.3,
+  "role": "main",
+  "description": "Your default brain. Strong reasoning and reliable tool calling."
+}

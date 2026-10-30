@@ -1,0 +1,7 @@
+{
+  "name": "Dolphin 3.8B",
+  "ollama_tag": "dolphin3:8b",
+  "vram_gb": 3.1,
+  "role": "assistant",
+  "description": "Fast and efficient conversational model with 8B parameters."
+}
