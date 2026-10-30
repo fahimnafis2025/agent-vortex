@@ -12,8 +12,7 @@ By **MD Fahim Nafis** — github.com/fahimnafis2025 · linkedin.com/in/fahimnafi
 
 **Full documentation:** [Agent-Lab-Full-Documentation.pdf](./Agent-Lab-Full-Documentation.pdf)
 (20 pages, with diagrams, timeline, reproduction steps, and the honest ending.
-Put this README and that PDF in the same folder at the root of the repository,
-or update the link above if you move the PDF to `docs/`.)
+)
 
 ---
 
