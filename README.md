@@ -17,6 +17,7 @@ or update the link above if you move the PDF to `docs/`.)
 
 ---
 
+
 ## What this is
 
 A personal assistant that lives on your own computer, not in someone else's cloud.
