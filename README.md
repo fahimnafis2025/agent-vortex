@@ -12,11 +12,9 @@ By **MD Fahim Nafis** — github.com/fahimnafis2025 · linkedin.com/in/fahimnafi
 
 **Full documentation:** [Agent-Lab-Full-Documentation.pdf](./Agent-Lab-Full-Documentation.pdf)
 (20 pages, with diagrams, timeline, reproduction steps, and the honest ending.
-Put this README and that PDF in the same folder at the root of the repository,
-or update the link above if you move the PDF to `docs/`.)
+)
 
 ---
-
 
 ## What this is
 
@@ -69,6 +67,22 @@ The rules that shaped it:
 - Project: `E:\AGENT\agent-lab`
 - Models: `E:\AGENT\ollama-models`, via `OLLAMA_MODELS`
 - Voice sidecar: `http://127.0.0.1:8002`, localhost only
+
+## Panel screenshots
+
+These are real screenshots of the final panel, footer V22.9.2, not mockups.
+
+![Breach Protocol loading screen](screenshots/01-breach-protocol-loading.png)
+
+*Breach Protocol loading screen, the panel's opening screen.*
+
+![Vortex panel, main view](screenshots/02-vortex-panel-main.png)
+
+*Main panel: Daemon Dock with the loaded models, system telemetry with VRAM use, live activity, and the chat area. Voice slot 28 is shown at the bottom.*
+
+![Vortex panel, expanded views](screenshots/03-vortex-panel-expanded.png)
+
+*Expanded panels: activity timeline, model capability chart, task pipeline with pending, executing, and resolved jobs, and system stats. Footer reads BREACH TERMINAL // V22.9.2.*
 
 ## What is in this repository
 
